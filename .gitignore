@@ -1,2 +1,9 @@
 .ipynb_checkpoints
 .dist
+data
+docs
+yellow_taxi_data
+pgadmin_data
+.env
+data.parquet
+data.csv
